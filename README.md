@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.svgator.com/images/2024/04/electrocuted-caveman-animation-404-error-page.gif"></img>
 
-- 🌱 I’m currently learning **Frontend Devlopment**
+- 🌱 I’m currently exploring **Frontend Devlopment**
 
 - 💬 Ask me about **C,HTML,CSS,JavaScript**
 
